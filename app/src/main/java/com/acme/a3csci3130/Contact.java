@@ -1,5 +1,9 @@
+
 package com.acme.a3csci3130;
 
+/*@author Yiran Deng
+ *@function initialize Contact
+ */
 import com.google.firebase.database.Exclude;
 import com.google.firebase.database.IgnoreExtraProperties;
 

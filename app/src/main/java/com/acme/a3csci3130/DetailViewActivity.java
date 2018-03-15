@@ -1,5 +1,8 @@
-package com.acme.a3csci3130;
 
+package com.acme.a3csci3130;
+/*@author Yiran Deng
+ *@function update and erase the data
+ */
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
